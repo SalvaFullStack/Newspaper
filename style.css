@@ -1,0 +1,58 @@
+
+.titular {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+
+}
+
+
+.exorcista {
+   
+    padding: 10px;
+    margin: 20px;
+}
+
+.mono {
+   
+    padding: 10px;
+    margin: 20px;
+}
+
+.Papanoel {
+    padding: 10px;
+    
+    
+}
+
+.planta {
+    
+    padding: 10px;
+    margin: 20px
+    
+
+}
+
+.caquita {
+   
+    padding: 10px;
+    margin: 10px
+}
+
+.Monoexorcista {
+    columns: 2 auto;
+
+}
+
+.News {
+    columns: 3 auto;
+
+}
+
+p {
+    text-align:justify;
+}
+
+img {width: 100%;
+
+}
