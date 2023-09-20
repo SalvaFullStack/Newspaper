@@ -2,39 +2,43 @@
 .titular {
 
     font-family: 'Times New Roman', Times, serif;
-    font-size: 80px;
+    font-size: 100px;
+    text-align: right;
+    background-color: aliceblue;
 
 }
 
 
 .exorcista {
-   
+    border-style: dashed;
+    border-color: black;
+    background-color: beige;
     padding: 10px;
     margin: 20px;
 }
 
 .mono {
-   
+    background-color: beige;
     padding: 10px;
     margin: 20px;
 }
 
 .Papanoel {
     padding: 10px;
-    
+    background-color: beige;
     
 }
 
 .planta {
     
     padding: 10px;
-    margin: 20px
-    
+    margin: 20px;
+    background-color: beige;
 
 }
 
 .caquita {
-   
+    background-color: beige;
     padding: 10px;
     margin: 10px
 }
